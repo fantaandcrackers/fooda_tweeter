@@ -1,0 +1,2 @@
+/Users/arthurshir/Documents/Job_Search/Interviews/Interviews/fooda/env/lib/python2.7/site-packages/fooda_tweeter-0.1-py2.7.egg
+/Users/arthurshir/Documents/Job_Search/Interviews/Interviews/fooda/env/bin/fooda_tweeter
