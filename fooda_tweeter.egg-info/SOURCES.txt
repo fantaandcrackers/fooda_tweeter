@@ -1,0 +1,10 @@
+constants.py
+fooda_tweeter.py
+setup.py
+tweeter_requests.py
+fooda_tweeter.egg-info/PKG-INFO
+fooda_tweeter.egg-info/SOURCES.txt
+fooda_tweeter.egg-info/dependency_links.txt
+fooda_tweeter.egg-info/entry_points.txt
+fooda_tweeter.egg-info/requires.txt
+fooda_tweeter.egg-info/top_level.txt

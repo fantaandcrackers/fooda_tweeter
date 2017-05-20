@@ -21,3 +21,9 @@ Automated Installation (install.sh):
 Usage:
 1. Load Virtual Environment by running 'source venv/bin/activate'
 2. Run with: 'fooda_tweeter <@ + twitter handle> <number of tweets>''
+
+Example Usage:
+- fooda_tweeter @shir_arthur 1
+- Displaying the shir_arthur most recent tweets for 1
+  RT @SeanTAllen: I like how the times used it's front page to demonstrate the digital swamp https://t.co/BRUNm19yIu
+  Posted on Thu May 18 13:06:18 +0000 2017
