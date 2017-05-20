@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        fooda_tweeter=fooda_tweeter:tweeter
-    
