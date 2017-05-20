@@ -23,6 +23,13 @@ Usage:
 
 Example Usage:
 - fooda_tweeter @shir_arthur 1
-- Displaying the shir_arthur most recent tweets for 1
+- Displaying the 1 most recent tweets for @shir_arthur
   RT @SeanTAllen: I like how the times used it's front page to demonstrate the digital swamp https://t.co/BRUNm19yIu
   Posted on Thu May 18 13:06:18 +0000 2017
+
+Assumptions:
+- Assumed Python 2, pip Python packager, and Virtualenv Python package are available to user.
+
+Decisions:
+- I decided to write this project in Python and used the Click package for creating command line interfaces: http://click.pocoo.org/5/
+- To display the tweets, I decided on the format <text>\n<created_at>
