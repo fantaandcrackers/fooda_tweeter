@@ -32,4 +32,4 @@ Assumptions:
 
 Decisions:
 - I decided to write this project in Python and used the Click package for creating command line interfaces: http://click.pocoo.org/5/
-- To display the tweets, I decided on the format <text>\n<created_at>
+- To display the tweets, I decided on the format '<text>\n<created_at>'
