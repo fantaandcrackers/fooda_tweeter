@@ -1,5 +1,4 @@
 # fooda_tweeter
-# Arthur Shir
 
 Description:
 This app uses a virtualenv virtual environment for storing pip packages as well as the Click python package for creating the command line interface. Install by creating and activating a virtual environment, installing dependancies, and running python setup.py script. Alternatively, just run the install.sh. Please note, to run the commandline tool you must be in the virtualenvironment.
