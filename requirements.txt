@@ -1,0 +1,9 @@
+appdirs==1.4.3
+click==6.7
+fooda-tweeter==0.1
+httplib2==0.10.3
+oauth2==1.9.0.post1
+packaging==16.8
+pyparsing==2.2.0
+requests==2.14.2
+six==1.10.0
